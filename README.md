@@ -6,3 +6,4 @@
 
 [EURxb.finance: governance contract security audit report by SFXDX](https://github.com/EURxbfinance/audits/blob/master/Governance%20Contract%20Audit.pdf)
 
+[EURxb.finance: XIV1 Vault Audit](https://github.com/EURxbfinance/audits/blob/master/XIV1_Vault_Audit.pdf)
