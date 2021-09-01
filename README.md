@@ -8,4 +8,4 @@
 
 [XBE.finance: XIV1 Vault Audit](https://github.com/XBEfinance/audits/blob/master/XIV1_Vault_Audit.pdf)
 
-[XBE.finance: XIV1 VeXBE Audit](https://github.com/XBEfinance/audits/blob/master/XIV1_veXBE_Audit.pdf)
+[XBE.finance: XIV1 VeXBE Audit](https://github.com/XBEfinance/audits/blob/master/XIV1_VeXBE_Audit.pdf)
