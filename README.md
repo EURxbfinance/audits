@@ -9,3 +9,5 @@
 [XBE.finance: XIV1 Vault Audit](https://github.com/XBEfinance/audits/blob/master/XIV1_Vault_Audit.pdf)
 
 [XBE.finance: XIV1 VeXBE Audit](https://github.com/XBEfinance/audits/blob/master/XIV1_VeXBE_Audit.pdf)
+
+[PeckShield-Audit-Report-EURxb-v1.0](https://github.com/XBEfinance/audits/blob/master/PeckShield-Audit-Report-EURxb-v1.0.pdf)
