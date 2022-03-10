@@ -14,3 +14,4 @@
 
 [PeckShield-Audit-Report-XBEVaults-1.0](https://github.com/XBEfinance/audits/blob/master/PeckShield-Audit-Report-XBEVaults-1.0%20(1).pdf)
 
+[Certik Preliminary Audit Report](https://github.com/XBEfinance/audits/blob/master/CERTIK-PRE-XBE-Finance-2021-12-31-1641358006577.pdf)
